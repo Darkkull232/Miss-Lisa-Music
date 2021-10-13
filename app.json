@@ -1,6 +1,6 @@
 {
     "name": "Lisa Music",
-    "description": "Grabs song from yt and sends it to telegram by @Teletech_supportgroup",
+    "description": "Grabs song from yt and sends it to telegram by @Teletechsupport_channel",
     "logo": "https://telegra.ph/file/7123755179b28ac7f9295.jpg",
     "env": {
         "API_ID": {
